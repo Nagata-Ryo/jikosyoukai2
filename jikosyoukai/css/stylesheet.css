@@ -1,0 +1,21 @@
+@import url(sanitize.css);
+
+
+.title {
+  color: #02ccba;
+}
+
+img{
+  width: 300px;
+  height: 400px;
+}
+
+.gaiyou {
+  display: inline-block;
+   vertical-align:top;
+}
+
+.boldred{
+  font-weight: bold;
+  color:red ;
+}
